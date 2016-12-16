@@ -1,0 +1,30 @@
+{
+    "extends": "eslint-config-airbnb-base",
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    },
+    "env": {
+        "mocha": true,
+        "node": true
+    },
+    "globals": {
+        "expect": true
+    },
+    "rules": {
+        "padded-blocks": 0,
+        "no-use-before-define": [
+            2,
+            "nofunc"
+        ],
+        "no-unused-expressions": 0,
+        "linebreak-style": 0,
+        "indent": 0 ,
+        "class-methods-use-this": 0,
+        "quotes": 0,
+        "no-multiple-empty-lines": 0,
+        "max-len": 0,
+        "import/prefer-default-export": 0
+    }
+}

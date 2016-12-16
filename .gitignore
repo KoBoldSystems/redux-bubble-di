@@ -1,0 +1,8 @@
+node_modules
+coverage
+.vscode
+*.log
+lib
+dist
+es
+.npmignore
