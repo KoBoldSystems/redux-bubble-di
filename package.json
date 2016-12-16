@@ -35,7 +35,7 @@
     "injection",
     "typescript"
   ],
-  "author": "Benjamin Meyer <ben.in.queensland@gmail.com>",
+  "author": "Benjamin Meyer <ben.from.queensland@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.18.0",

@@ -2,6 +2,8 @@ redux-bubble-di
 
 A Dependecy-Injecting Middleware for redux using bubble-di.
 
+[![build status](https://travis-ci.org/KoBoldSystems/redux-bubble-di.svg?branch=master)](https://travis-ci.org/KoBoldSystems/redux-bubble-di) 
+
 **Installation**
 
 ```
